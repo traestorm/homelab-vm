@@ -1,0 +1,8 @@
+*.qcow2
+*.vmdk
+*.img
+*.env
+*.tfstate
+*.tfstate.*
+*.log
+tmp/
